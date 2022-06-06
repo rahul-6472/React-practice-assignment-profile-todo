@@ -1,0 +1,8 @@
+.profileContent {
+  border: 1px solid #cecece;
+  width: 30%;
+  height: 90vh;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding-left: 2rem;
+  padding-top: 2rem;
+}
