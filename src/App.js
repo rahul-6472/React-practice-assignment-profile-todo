@@ -2,8 +2,8 @@ import "./App.css";
 import Profile from "./components/Profile";
 import Todos from "./components/Todos";
 import TodoHeading from "./components/TodoHeading";
-
 function App() {
+
   const todos = [
     { id: 1, title: "Wake up", status: true },
     { id: 2, title: "drink tea", status: false },
